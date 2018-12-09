@@ -1,4 +1,6 @@
-[申请表单](http://yingkebao.top/web/formview/5c0cecc075a03c462fcb1718)
+[热心网友申请入口](http://yingkebao.top/web/formview/5c0cecc075a03c462fcb1718)
+
+[邮件申请入口](mailto:yuyiqianghehe@163.com?subject=测试发邮件&body=就是一个测试邮件")
 
 [杭州](/)|[上海](/)|[北京](/)|[广州](/)|[合肥](/)|[苏州](/)|[大连](/)|[重庆](/)|[无锡](/)|[天津](/)|[南京](/)|[哈尔滨](/)
 
